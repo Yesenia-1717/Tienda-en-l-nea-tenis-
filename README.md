@@ -221,6 +221,7 @@ nav ul li {
 }
 
 https://github.com/Yesenia-1717/Tienda-en-l-nea-tenis-/blob/main/image1.jpg
+https://github.com/Yesenia-1717/Tienda-en-l-nea-tenis-/blob/main/image2.jpg
 
 
 
