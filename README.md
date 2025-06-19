@@ -215,6 +215,10 @@ nav ul li {
     padding: 1em;
     border: 1px solid #ccc;
     width: 250px;
+
+
+    https://github.com/Yesenia-1717/Tienda-en-l-nea-tenis-/blob/main/image1.jpg
+    
     text-align: center;
 }
 
