@@ -25,35 +25,35 @@
     <div class="productos">
 
         <div class="producto">
-            <img src="imágenes/image1.jpg" width="250" alt="Tenis Total 90 Dorados">
+            <img src="image1.jpg" width="250" alt="Tenis Total 90 Dorados">
             <h3>Total 90 Dorados</h3>
             <p><del>$8,000.00</del> $5,000.00</p>
             <button onclick="agregarAlCarrito('Total 90 Dorados', 5000)">Agregar al carrito</button>
         </div>
 
         <div class="producto">
-            <img src="imágenes/image2.jpg" width="250" alt="Tenis Total 90 Rojos">
+            <img src="image2.jpg" width="250" alt="Tenis Total 90 Rojos">
             <h3>Total 90 Rojos</h3>
             <p><del>$9,000.00</del> $6,000.00</p>
             <button onclick="agregarAlCarrito('Total 90 Rojos', 6000)">Agregar al carrito</button>
         </div>
 
         <div class="producto">
-            <img src="imágenes/image3.jpg" width="250" alt="Zidane Retro">
+            <img src="image3.jpg" width="250" alt="Zidane Retro">
             <h3>Zidane Retro</h3>
             <p><del>$13,000.00</del> $9,999.00</p>
             <button onclick="agregarAlCarrito('Zidane Retro', 9999)">Agregar al carrito</button>
         </div>
 
         <div class="producto">
-            <img src="imágenes/image4.jpg" width="250" alt="Zidane Dorados">
+            <img src="image4.jpg" width="250" alt="Zidane Dorados">
             <h3>Zidane Dorados</h3>
             <p><del>$15,000.00</del> $12,999.00</p>
             <button onclick="agregarAlCarrito('Zidane Dorados', 12999)">Agregar al carrito</button>
         </div>
 
         <div class="producto">
-            <img src="imágenes/image5.jpg" width="250" alt="Adidas Predator Absolute Gold Edición Especial Zinedine">
+            <img src="image5.jpg" width="250" alt="Adidas Predator Absolute Gold Edición Especial Zinedine">
             <h3>Adidas Predator Absolute Gold Edición Especial Zinedine</h3>
             <p><del>$7,000.00</del> $4,000.00</p>
             <button onclick="agregarAlCarrito('Adidas Predator Absolute Gold Edición Especial Zinedine', 4000)">Agregar al carrito</button>
@@ -90,13 +90,13 @@
     <h2>Ofertas del día</h2>
     <div class="productos">
         <div class="producto">
-            <img src="imágenes/image1.jpg" width="250" alt="Tenis Nike Rojos">
+            <img src="image1.jpg" width="250" alt="Tenis Nike Rojos">
             <h3>Tenis Nike Rojos</h3>
             <p><del>$14,000.00</del> $9,000.00</p>
             <button onclick="agregarAlCarrito('Tenis Nike Rojos', 9000)">Agregar al carrito</button>
         </div>
         <div class="producto">
-            <img src="imágenes/image2.jpg" width="250" alt="Zidane Retro">
+            <img src="image2.jpg" width="250" alt="Zidane Retro">
             <h3>Zidane Retro</h3>
             <p><del>$13,000.00</del> $9,999.00</p>
             <button onclick="agregarAlCarrito('Zidane Retro', 9999)">Agregar al carrito</button>
